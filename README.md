@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">A computer science student & tech enthusiast.</h4>
+<h3 align="center">A computer science student & tech enthusiast.</h3>
 
 ###
 
